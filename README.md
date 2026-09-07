@@ -2,7 +2,15 @@
 
 Unofficial workaround and technical documentation for a reproducible feeder preload failure observed on the Snapmaker U1 after updating to firmware 1.6.
 
-## Problem
+## The Problem
+
+After updating the Snapmaker U1 firmware, some third-party filament feeding systems such as the BIQU PopStation Mini may trigger a **Feeder Encoder Wheel Speed Anomaly** during filament loading.
+
+![Snapmaker U1 Feeder Encoder Wheel Speed Anomaly](images/feeder-speed-anomaly-error.png)
+
+**Example error:** `0002-0525-0003-0032`
+
+The printer may report that the filament is tangled or the feeding path is obstructed even when the filament path is clear. This project documents the workaround and calibration changes used to restore reliable filament loading.
 
 During filament preload, feeder wheel or motor pulse counts can continue increasing while the calculated RPM reports `0`. The stock preload validation can interpret this as a speed abnormality and raise preload exceptions.
 
