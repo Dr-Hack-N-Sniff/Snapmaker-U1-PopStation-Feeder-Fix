@@ -50,17 +50,14 @@ After the workaround:
 - Motor-speed monitoring, filament detection, timeout, and preload-distance protections remained active.
 - Only the wheel RPM/slip validation during preload was intentionally bypassed.
 
-## ❤️ Support This Project
 
-If this fix helped get your Snapmaker U1 and PopStation Mini working again, consider supporting the project.
+## 🖨️ Support the Project
 
-Your support helps fund filament, testing, and continued development of fixes and improvements for the Snapmaker U1 community.
+If this project helped you and you'd like to support continued U1 development, testing, and future projects:
 
-### 🧵 Buy Me a Roll of Filament
+[![Buy me a roll of filament](images/buy-me-a-roll-of-filament.png)](https://buymeacoffee.com/hacknsniff)
 
-
-
-Every roll helps with testing. Thank you! 🖨️
+Thank you! 🖨️
 
 ## Important Warning
 
