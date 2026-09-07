@@ -58,7 +58,7 @@ Your support helps fund filament, testing, and continued development of fixes an
 
 ### 🧵 Buy Me a Roll of Filament
 
-[![Buy Me a Roll of Filament](https://img.shields.io/badge/Buy%20Me%20a%20Roll%20of%20Filament-Support%20the%20Project-orange?style=for-the-badge&logo=buymeacoffee)](YOUR-BUY-ME-A-COFFEE-LINK)
+
 
 Every roll helps with testing. Thank you! 🖨️
 
