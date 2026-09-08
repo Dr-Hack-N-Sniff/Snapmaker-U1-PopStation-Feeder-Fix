@@ -73,4 +73,17 @@ See [SNAPMAKER_REPORT.md](SNAPMAKER_REPORT.md) for the technical report.
 
 ## License
 
-Documentation in this repository is provided under the MIT License. Snapmaker firmware remains the property of its respective copyright holders. No Snapmaker firmware is distributed by this repository.
+This project's original code, modifications, and technical documentation
+are licensed under the **GNU General Public License v3.0 (GPL-3.0)**.
+
+This project documents modifications to software used by the Snapmaker U1.
+Snapmaker's U1 Klipper repository is also distributed under GPL-3.0.
+
+Snapmaker firmware, trademarks, and other third-party components remain
+the property of their respective copyright holders and are subject to
+their respective licenses. No Snapmaker firmware is distributed by this
+repository.
+
+Earlier versions of this project were made available under their previous
+licensing terms. Rights already granted under those earlier terms are
+unaffected by this change.
